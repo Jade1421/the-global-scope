@@ -1,2 +1,1 @@
-# the-global-scope
-A professional portfolio
+# personal portfolio
