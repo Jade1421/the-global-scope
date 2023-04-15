@@ -1,3 +1,26 @@
+header {
+  background-color: darkgray;
+  padding: 0 8%;
+}
+
+header h1 {
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  padding: 10px 0 20px 0px;
+  margin: 0;
+  font-size: 40px;
+}
+
+header h2 {
+  color: white;
+  padding: 10px 0 20px 0px;
+  margin: 0;
+  font-size: 20px;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
 
 .text-centered {
   text-align: center;
@@ -12,3 +35,41 @@
   width: 300px;
   margin: auto;
 }
+
+img {
+	width: 40%;
+  height: 20%;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+nav {
+  text-align: center;
+  font-size: 16px;
+}
+
+
+footer {
+  background-color: darkgray;
+  margin: 40px 0 0 0;
+  padding: 10px 10%;
+}
+
+li {
+  background-color: lightgray;
+  padding: 5px 10px;
+}
+
+.list-inside li {
+  list-style-position: inside;
+}
+
+a {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+
+a:link    { color: #6082b6;  }
+a:visited { color: red;   }
+a:hover   { color: yellow; }
+a:active  { color: pink;  }
